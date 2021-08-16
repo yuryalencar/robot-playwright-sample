@@ -1,4 +1,3 @@
-# robot-playwright-sample
 <h2 align="center">
   Robot Framework + Playwright
 </h2>
